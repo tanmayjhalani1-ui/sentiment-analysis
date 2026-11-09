@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="assets/portfolio-banner.svg" alt="Sentiment Analysis — Tanmay Jhalani" width="100%" />
+</div>
+
+<div align="center">
+  <strong>Designed and engineered by Tanmay Jhalani</strong> · <a href="https://github.com/tanmayjhalani1-ui">GitHub Profile</a>
+</div>
+
+---
+
 # Sentiment Analysis
 
 An end-to-end three-class text classification project using TF-IDF features and scikit-learn. It compares Multinomial Naive Bayes and Logistic Regression, tracks experiments with MLflow, and serves predictions through Streamlit and FastAPI.
