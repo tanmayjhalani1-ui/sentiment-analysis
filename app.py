@@ -18,7 +18,7 @@ input_col, report_col = st.columns([1.1, 0.9], gap="large")
 
 with input_col:
     st.subheader("Analyze text")
-    text = st.text_area("Enter a review or sentence", height=150, placeholder="The product quality is excellent...")
+    text = st.text_area("Enter a review or sentence", height=150, placeholder="The product quality is excellent...", key="input_text")
     if st.button("Analyze sentiment", type="primary"):
         if not text.strip():
             st.warning("Enter some text first.")
@@ -53,4 +53,4 @@ examples = [
 ]
 for example in examples:
     if st.button(example):
-        st.session_state["example_text"] = example
+        st.session_state["input_text"] = example
