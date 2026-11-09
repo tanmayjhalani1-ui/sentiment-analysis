@@ -1,0 +1,41 @@
+text,label
+"I love this product, it's amazing!",positive
+"This is the best day ever!",positive
+"I'm so happy with my purchase",positive
+"Great quality and excellent service",positive
+"Absolutely wonderful experience",positive
+"I'm very satisfied with this",positive
+"This is fantastic!",positive
+"Love it! Highly recommend",positive
+"Best decision ever",positive
+"Excellent quality",positive
+"Perfect!",positive
+"Amazing product",positive
+"Very happy",positive
+"Great job",positive
+"Superb",positive
+"I hate this, it's terrible",negative
+"This is the worst day of my life",negative
+"I'm very disappointed",negative
+"Poor quality and bad service",negative
+"Absolutely horrible experience",negative
+"I'm not satisfied at all",negative
+"This is awful!",negative
+"Don't buy this, waste of money",negative
+"Terrible decision",negative
+"Horrible quality",negative
+"Useless!",negative
+"Terrible product",negative
+"Very unhappy",negative
+"Bad job",negative
+"Awful",negative
+"The weather is cloudy today",neutral
+"This costs $50",neutral
+"The book has 300 pages",neutral
+"The meeting is at 3 PM",neutral
+"The color is blue",neutral
+"It's a regular day",neutral
+"The price is $25",neutral
+"It has three parts",neutral
+"The time is 5 o'clock",neutral
+"This is okay",neutral
